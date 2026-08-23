@@ -3,7 +3,7 @@
 <h3 align="center">Senior Software Engineer & Software Architecture Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Tech+Lead+%7C+Software+Architect;Backend-focused+Full-Stack+Engineer;Healthcare+Software+Industry;Cloud+%26+Containers+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Tech+Lead+%7C+Software+Architect;Backend-focused+Full-Stack+Engineer;Healthcare+Software+Industry" alt="Typing SVG" />
 </p>
 
 ---
