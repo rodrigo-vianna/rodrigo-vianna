@@ -67,11 +67,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-vianna&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Rodrigo's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-vianna&layout=compact&theme=dark" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo-vianna&theme=dark" alt="GitHub Streak" />
 </p>
 
